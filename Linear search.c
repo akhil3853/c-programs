@@ -1,6 +1,4 @@
-/* Write C program that use both recursive and non recursive functions to perform Linear 
-search for a Key value in a given list. 
-            ALGORITHM TO PERFORM LINEAR SEARCH FOR A GIVEN LIST
+/*ALGORITHM TO PERFORM LINEAR SEARCH FOR A GIVEN LIST
 Step1 : start
 step2 : declare n,i,val,pos,option
 step3 : input n 
